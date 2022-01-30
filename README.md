@@ -9,6 +9,7 @@ MSX game developed with default Basic in text mode, no machine code
 
 
 Play online: https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/5thpr/raw/main/5thprs.rom
+(Bad sound quality)
 
 Repository for downloads: https://github.com/antor44/5thpr
 
