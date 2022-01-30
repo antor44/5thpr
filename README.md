@@ -18,6 +18,6 @@ Requirements:
 
 -MSX 1/2/2+ Europe or USA BIOS
 
--Or OpenMSX emulator with Basic ROM
+-Or OpenMSX emulator with a Basic Bios
 
 -Or WebMSX: https://webmsx.org/
