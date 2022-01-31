@@ -2,10 +2,9 @@
 
 MSX game developed with default Basic in text mode, no machine code
 
-5thpr is the version compatible with MSX1 with at least 64KB
+5thpr is the version compatible with MSX1.
 
-5thprs is the version with speech synthesis, it requires ROM or CAS file or the binary file tavmsx.bin in disk A (TAVMSX beta 4, by Pastbytes)
-
+5thprs is the version with speech synthesis, it requires ROM or CAS file or the binary file tavmsx.bin in disk A (TAVMSX beta 4, by Pastbytes). This version of the game requires MSX2 with at least 64KB.
 
 
 Play online: https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/5thpr/raw/main/5thprs.rom
