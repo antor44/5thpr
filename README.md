@@ -8,7 +8,6 @@ How to play: The player has to play the same music notes of the UFO. Visual aids
 Play online:
 
 https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/5thpr/raw/main/5thprs.rom
-(Bad sound quality)
 
 Repository for downloads:
 
