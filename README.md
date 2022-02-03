@@ -16,7 +16,9 @@ https://github.com/antor44/5thpr
 
 5thpr is the version compatible with MSX1, developed with default Basic without inserting machine code.
 
-5thprs is the version with speech synthesis, it requires ROM or CAS file or the binary file tavmsx.bin in disk A (TAVMSX beta 4, by Pastbytes). This version of the game requires MSX2 with at least 64KB.
+5thprs is the version with speech synthesis, it requires ROM or CAS file or the binary file tavmsx.bin in disk A (*TAVMSX beta 4, by Pastbytes). This version of the game requires MSX2 with at least 64KB.
+
+*Licensed by its author
 
 Requirements:
 
