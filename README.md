@@ -3,7 +3,7 @@
 MSX game developed with default Basic, no machine code
 
 
-How to play: The player has to play the same music notes of the UFO. Visual aids are available, extra lives every 3 notes at last stage in every level.
+How to play: The player has to play the same music notes of the UFO. Visual aids are available, extra lives every 3 notes at Bonus Stage in every level.
 
 Play online:
 
