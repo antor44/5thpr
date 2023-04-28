@@ -1,5 +1,9 @@
 # Close Encounters of the Fifth Kind PRO
 
+![Screenshot](https://github.com/antor44/5thpr/blob/main/5th_bonus.jpg)
+
+#
+
 MSX game developed with default Basic, no machine code
 
 
